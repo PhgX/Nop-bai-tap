@@ -1,0 +1,35 @@
+@font-face{
+  src: url(font/Tahoma Regular font.ttf);
+  font-family: Tamaho;
+  src: url(font/LucidaGrande.ttf);
+  font-family: LucidaGrande;
+  src: url(font/Lucida Sans Unicode.ttf);
+  font-family: Lucida Sans Unicode;
+  src: url(font/Hanoienne.otf);
+  font-family: Hanoienne;
+}
+
+h1 {
+      text-align: center;
+    }
+h4 {
+      font-size: 20px; font-weight: bold;
+}
+form {
+      font-family: sans-serif;
+    }
+#q {
+      margin: 0 
+      padding: 5px; 
+      font-size: 2em; 
+      line-height: 30px 
+}
+
+#b {
+      margin: 0 
+      text-indent: -99999px; 
+      width: 30px; 
+      height: 30px; 
+      display: block;
+      background: gray url(button.png) 0 0 no-repeat;
+}
